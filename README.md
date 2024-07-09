@@ -35,7 +35,7 @@ matplotlib: Python plotting library, used for visualizing log events over time.
    ```
 3. Run the application:
    ```bash
-   python LogAnalyzerApp.py
+   python LogApp.py
    ```
 4. Use the interface to load log files, filter logs, view log details, and visualize log events over time.
 
