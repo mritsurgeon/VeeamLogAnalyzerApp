@@ -26,7 +26,7 @@ matplotlib: Python plotting library, used for visualizing log events over time.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/veeam-log-analyzer.git
+   git clone https://github.com/mritsurgeon/VeeamLogAnalyzerApp.git
    cd veeam-log-analyzer
    ```
 2. Install dependencies using pip:
